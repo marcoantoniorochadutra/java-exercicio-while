@@ -1,3 +1,3 @@
 ## Exercicios JAVA
 
-### Lista de exerciocios em java, baseado no loop FOR.
+### Lista de exerciocios em java, baseado no loop WHILE.
